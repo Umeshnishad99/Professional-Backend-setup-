@@ -1,0 +1,17 @@
+{
+  "name": "backend-setup-day5",
+  "version": "1.0.0",
+  "description": "\"A backend with chai or code setup professional or industry level  backend project\"",
+  "keywords": [
+    "javacript",
+    "nodejs",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Umesh Kumar Nishad",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
